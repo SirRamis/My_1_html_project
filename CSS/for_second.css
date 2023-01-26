@@ -1,0 +1,7 @@
+.blue-with-border {
+       background: blue;
+       color: white;
+       border:3px white dashed;}
+#second-paragraph {
+    background: red;
+    color: yellow;
