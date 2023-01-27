@@ -2,6 +2,14 @@
        background: blue;
        color: white;
        border:3px white dashed;}
+
 #second-paragraph {
     background: red;
     color: yellow;
+
+/*display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 150px;
+margin-inline-end: 150px;*/
+padding: 50px
