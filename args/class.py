@@ -31,4 +31,4 @@ class Cube(Square):
 c = Cube(100, 40, 5)
 a = c.area()
 v = c.volume()
-print(a)
+print(v)
