@@ -7,5 +7,6 @@ class Person:
         return self.firs_name + ' ' + self.last_name
 
 
-jack = Person(input(), input(), input())
-print(jack)
+#jack = Person(input(), input(), input())
+#print(jack)
+
